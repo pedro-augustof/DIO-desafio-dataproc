@@ -32,10 +32,6 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 
 ---
 
-### Considerações Finais
-
-NOTA: Se o Job mostrar um WARN de Interrupt, basta ignorar. Existe um bug no Hadoop que é conhecido. Isso não impacta no processamento.
-
-Qualquer outra dúvida, informação ou sugestão, fique a vontade para entrar em contato.
-
-marcelo@smarques.com
+### Descrição
+Bucket-name: gs://pedro-bucket-desafio/
+by pedroaugusto4032@gmail.com
